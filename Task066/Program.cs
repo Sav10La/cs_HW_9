@@ -20,6 +20,6 @@ void Zadacha66()
         a++;
         Recursion(a, b, sum);
     }
-}
+    }
 
 Zadacha66();
